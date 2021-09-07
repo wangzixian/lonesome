@@ -1,6 +1,6 @@
 #  导读
 
-> [Ashiamd的个人MD笔记](https://ashiamd.github.io/docsify-notes/) ==> https://ashiamd.github.io/docsify-notes/
+> [Ashiamd的个人MD笔记](hhttps://wangzixian.github.io/lonesome/) ==> hhttps://wangzixian.github.io/lonesome/
 
 该项目用于记录个人学习笔记，有部分内容来自图书、博客、论坛等。
 
@@ -10,30 +10,30 @@
 
 ## 目录
 
-* [Android](https://ashiamd.github.io/docsify-notes/#/study/Android/README.md)
-* [LeetCode](https://ashiamd.github.io/docsify-notes/#/study/LeetCode_Study/README.md)
-* [React](https://ashiamd.github.io/docsify-notes/#/study/React/README.md)
-* [Vue](https://ashiamd.github.io/docsify-notes/#/study/Vue/README.md)
-* [GoLang](https://ashiamd.github.io/docsify-notes/#/study/GoLang/README.md)
-* [Java](https://ashiamd.github.io/docsify-notes/#/study/Java/README.md)
-* [Python](https://ashiamd.github.io/docsify-notes/#/study/Python/README.md)
-* [Scala](https://ashiamd.github.io/docsify-notes/#/study/Scala/README.md)
-* [BigData](https://ashiamd.github.io/docsify-notes/#/study/BigData/README.md)
-* [SpringBoot](https://ashiamd.github.io/docsify-notes/#/study/SpringBoot/README.md)
-* [SpringCloud](https://ashiamd.github.io/docsify-notes/#/study/SpringCloud/README.md)
-* [MQ](https://ashiamd.github.io/docsify-notes/#/study/MQ/README.md)
-* [Netty](https://ashiamd.github.io/docsify-notes/#/study/Netty/README.md)
-* [Linux](https://ashiamd.github.io/docsify-notes/#/study/Linux/README.md)
-* [操作系统和硬件](https://ashiamd.github.io/docsify-notes/#/study/操作系统和硬件/README)
-* [计算机网络](https://ashiamd.github.io/docsify-notes/#/study/计算机网络/README.md)
-* [网络安全](https://ashiamd.github.io/docsify-notes/#/study/网络安全/README.md)
-* [推荐系统](https://ashiamd.github.io/docsify-notes/#/study/推荐系统/README.md)
-* [设计模式](https://ashiamd.github.io/docsify-notes/#/study/设计模式/README.md)
-* [计算广告](https://ashiamd.github.io/docsify-notes/#/study/计算广告/README.md)
-* [文件管理](https://ashiamd.github.io/docsify-notes/#/study/文件管理/README.md)
-* [DataBase](https://ashiamd.github.io/docsify-notes/#/study/DataBase/README.md)
-* [Elastic-Stack](https://ashiamd.github.io/docsify-notes/#/study/Elastic-Stack/README.md)
+* [Android](hhttps://wangzixian.github.io/lonesome/#/study/Android/README.md)
+* [LeetCode](hhttps://wangzixian.github.io/lonesome/#/study/LeetCode_Study/README.md)
+* [React](hhttps://wangzixian.github.io/lonesome/#/study/React/README.md)
+* [Vue](hhttps://wangzixian.github.io/lonesome/#/study/Vue/README.md)
+* [GoLang](hhttps://wangzixian.github.io/lonesome/#/study/GoLang/README.md)
+* [Java](hhttps://wangzixian.github.io/lonesome/#/study/Java/README.md)
+* [Python](hhttps://wangzixian.github.io/lonesome/#/study/Python/README.md)
+* [Scala](hhttps://wangzixian.github.io/lonesome/#/study/Scala/README.md)
+* [BigData](hhttps://wangzixian.github.io/lonesome/#/study/BigData/README.md)
+* [SpringBoot](hhttps://wangzixian.github.io/lonesome/#/study/SpringBoot/README.md)
+* [SpringCloud](hhttps://wangzixian.github.io/lonesome/#/study/SpringCloud/README.md)
+* [MQ](hhttps://wangzixian.github.io/lonesome/#/study/MQ/README.md)
+* [Netty](hhttps://wangzixian.github.io/lonesome/#/study/Netty/README.md)
+* [Linux](hhttps://wangzixian.github.io/lonesome/#/study/Linux/README.md)
+* [操作系统和硬件](hhttps://wangzixian.github.io/lonesome/#/study/操作系统和硬件/README)
+* [计算机网络](hhttps://wangzixian.github.io/lonesome/#/study/计算机网络/README.md)
+* [网络安全](hhttps://wangzixian.github.io/lonesome/#/study/网络安全/README.md)
+* [推荐系统](hhttps://wangzixian.github.io/lonesome/#/study/推荐系统/README.md)
+* [设计模式](hhttps://wangzixian.github.io/lonesome/#/study/设计模式/README.md)
+* [计算广告](hhttps://wangzixian.github.io/lonesome/#/study/计算广告/README.md)
+* [文件管理](hhttps://wangzixian.github.io/lonesome/#/study/文件管理/README.md)
+* [DataBase](hhttps://wangzixian.github.io/lonesome/#/study/DataBase/README.md)
+* [Elastic-Stack](hhttps://wangzixian.github.io/lonesome/#/study/Elastic-Stack/README.md)
 
-+ [Docker](https://ashiamd.github.io/docsify-notes/#/study/Docker/README.md)
-+ [kubernetes](https://ashiamd.github.io/docsify-notes/#/study/kubernetes/README.md)
-+ [CICD](https://ashiamd.github.io/docsify-notes/#/study/CICD/README.md)
++ [Docker](hhttps://wangzixian.github.io/lonesome/#/study/Docker/README.md)
++ [kubernetes](hhttps://wangzixian.github.io/lonesome/#/study/kubernetes/README.md)
++ [CICD](hhttps://wangzixian.github.io/lonesome/#/study/CICD/README.md)

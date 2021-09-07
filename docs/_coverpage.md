@@ -9,4 +9,4 @@
 * 😪👀😎😟😤💪💪💪💻🌕🌗🌑🌞😪😴
 
 [开始阅读](README.md)
-[我的GitHub](https://github.com/Ashiamd/docsify-notes)
+[我的GitHub](hhttps://wangzixian.github.io/lonesome)
